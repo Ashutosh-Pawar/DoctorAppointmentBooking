@@ -42,23 +42,18 @@ doctors, appointments.
 ### Login Screen
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
 
-### Add Doctor
+### View Appoinments
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
-### Login
+### Add Doctors
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
 
-### Customer Menu
+### Remove Doctor
 [![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
 
-### Bus Booking
+### Patient Panel
 [![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
 
-### Admin Menu
-[![Admin Dashboard][admin-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg)
-
-### Buses Information
-[![Buses][buses-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg)
 
 
 
