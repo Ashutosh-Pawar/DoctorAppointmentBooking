@@ -42,7 +42,7 @@ doctors, appointments.
 ### Login Screen
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
 
-### View Appoinments
+### View Appointments
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
 ### View Doctors
@@ -117,7 +117,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Shreya Ramtirth - shreyaramtirth4@gmail.com
+Ashutosh Pawar-ashupawar183@gmail.com
 
 Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github.com/ShreyaRamtirth/Bus_Booking.git)
 
@@ -129,8 +129,6 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
 [login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
 [registration-screenshot]:https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png
-[login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
 [customer-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png
 [busBooking-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png
-[admin-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg
-[buses-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg
+
