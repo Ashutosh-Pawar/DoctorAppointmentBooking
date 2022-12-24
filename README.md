@@ -39,20 +39,20 @@ doctors, appointments.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-### Login Screen
-[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
+### Admin Login Screen
+[![Admin Login][admin login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png)
 
-### View Appointments
-[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
-
-### View Doctors
-[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
+### Add/View Doctors
+[![Admin Dashboard][login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
 ### Remove Doctor
-[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
+[![Admin Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
+
+### View Appointments
+[![Admin Dashboard][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png)
 
 ### Patient Panel
-[![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
+[![Patient Dashboard][busBooking-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
 
 
 
@@ -85,14 +85,14 @@ you need to install following softwares or libraries.
 
 1. Clone the repo
 
-   ```sh
-   git clone https://github.com/ShreyaRamtirth/Bus_Booking.git
+   ```ap
+   git clone https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git
    ```
 2. Install Necessary software
 
 3. Open this project in eclipse.
 
-4. Go to BusBookingSystem/src/bin/BusBooking.java
+4. Go to DoctorAppointmentBooking/src/bin/DoctorAppointmentBooking.java
 
 5. Click on the run button.
 
@@ -127,8 +127,9 @@ Project Link: [https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git](h
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
-[registration-screenshot]:https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png
-[customer-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png
-[busBooking-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png
+[admin-login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
+[admin-dashboard-screenshot]:https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png
+[admin-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png
+[admin-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png
+[patient-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png
 
