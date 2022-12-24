@@ -45,14 +45,14 @@ doctors, appointments.
 ### View Appoinments
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
-### Add Doctors
+### View Doctors
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
 
 ### Remove Doctor
-[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
+[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
 
 ### Patient Panel
-[![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
+[![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
 
 
 
@@ -130,7 +130,7 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 [login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
 [registration-screenshot]:https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
-[customer-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
-[busBooking-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg
+[customer-dashboard-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png
+[busBooking-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png
 [admin-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg
 [buses-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg
