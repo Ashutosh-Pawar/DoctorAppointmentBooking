@@ -119,7 +119,7 @@ Don't forget to give the project a star! Thanks again!
 
 Ashutosh Pawar - ashupawar183@gmail.com
 
-Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github.com/ShreyaRamtirth/Bus_Booking.git)
+Project Link: [https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git](https://github.com/Ashutosh-Pawar/DoctorAppointmentBooking.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
