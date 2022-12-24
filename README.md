@@ -117,7 +117,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Ashutosh Pawar-ashupawar183@gmail.com
+Ashutosh Pawar - ashupawar183@gmail.com
 
 Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github.com/ShreyaRamtirth/Bus_Booking.git)
 
