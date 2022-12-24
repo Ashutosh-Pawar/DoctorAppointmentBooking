@@ -132,7 +132,7 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png
+[login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png
 [registration-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
 [customer-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
