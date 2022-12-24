@@ -42,7 +42,7 @@ doctors, appointments.
 ### Login Screen
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
 
-### Registration Screen
+### Add Doctor
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
 ### Login
