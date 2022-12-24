@@ -2,14 +2,14 @@
 
 <br />
 <div align="center">
-  <H1>Bus Booking Application</H1>
+  <H1>Doctor Appointment Booking Application</H1>
 
 <h3 align="center">console based application</h3>
 
   <p align="center">
     
-    The main objective of this project is to book bus ticket, keep a record of bus, 
-customer, transactions.
+    The main objective of this project is to book doctors appointment, keep a record of patients, 
+doctors, appointments.
   </p>
 </div>
 
@@ -43,7 +43,7 @@ customer, transactions.
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
 
 ### Registration Screen
-[![Registration][registration-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg)
+[![Registration][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
 ### Login
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
@@ -132,7 +132,7 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
-[login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg
+[login-screenshot]: https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png
 [registration-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
 [customer-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
