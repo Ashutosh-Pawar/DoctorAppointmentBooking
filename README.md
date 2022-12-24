@@ -40,19 +40,19 @@ doctors, appointments.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Admin Login Screen
-[![Admin Login][admin login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png)
+[![Admin Login][admin-login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/login%20screen.png)
 
 ### Add/View Doctors
-[![Admin Dashboard][login-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
+[![Admin Dashboard][add-doctor-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/add%20doctor.png)
 
 ### Remove Doctor
-[![Admin Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
+[![Admin Dashboard][remove-doctor-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/remove%20doctor.png)
 
 ### View Appointments
-[![Admin Dashboard][registration-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png)
+[![Admin Dashboard][view-patient-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/view%20patients.png)
 
 ### Patient Panel
-[![Patient Dashboard][busBooking-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
+[![Patient Dashboard][patient-booking-appointment-screenshot]](https://raw.githubusercontent.com/Ashutosh-Pawar/DoctorAppointmentBooking/main/images/patient%20panel.png)
 
 
 
